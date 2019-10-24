@@ -1,0 +1,8 @@
+{
+  "type": "Insitu",
+  "name": "Carbon Dioxide (CO2)",
+  "frequency": "Daily Averages",
+  "year": "Multiple",
+  "site": "Ochsenkopf, Germany (OXK)",
+  "data": "co2_mlo_surface-insitu_1_ccgg_DailyData.txt"
+}

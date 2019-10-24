@@ -1,0 +1,8 @@
+{
+  "type": "flask",
+  "name": "Carbon Dioxide (CO2)",
+  "frequency": "Discrete",
+  "year": "Multiple",
+  "site": "Ochsenkopf, Germany (OXK)",
+  "data": "co2_oxk_surface-flask_1_ccgg_event.txt"
+}

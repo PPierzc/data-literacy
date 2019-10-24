@@ -1,0 +1,8 @@
+{
+  "type": "flask",
+  "name": "Carbon Dioxide (CO2)",
+  "frequency": "Discrete",
+  "year": "Multiple",
+  "site": "Hohenpeissenberg, Germany (HPB)",
+  "data": "co2_hpb_surface-flask_1_ccgg_event.txt"
+}

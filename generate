@@ -1,0 +1,6 @@
+mkdir $1
+
+mkdir $1/src
+mkdir $1/data
+mkdir $1/tests
+mkdir $1/docs
